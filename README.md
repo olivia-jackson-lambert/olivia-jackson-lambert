@@ -1,29 +1,26 @@
-## 👋 Hi, I'm Olivia Jackson Lambert
+## 👋 Hi, I'm Olivia Jackson
 
 🚀 Data Scientist | Innovator | Advocate for Sustainability
 🌍 Based in San Francisco, originally from the UK.
 
-🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-I'm a data scientist with a diverse background in scientific disciplines and leadership roles, passionate about creating impactful, data-driven solutions. My expertise lies in time series forecasting, SQL, Python, and data visualization.
+I'm a data scientist with a diverse background in physics, machine learning and consultancy. I'm passionate about creating impactful, data-driven solutions that have a positive impact on people and businesses. 
 
-I've had the privilege of consulting on large-scale data science projects, automating processes to save hundreds of hours annually, and advancing predictive analytics for real-world challenges. I thrive in environments where innovation meets sustainability and am always excited to collaborate on meaningful projects.
-🌟 Highlights
+# 🌟 Highlights
 
-    📊 Developed a classification module for time series data while at Kenvue, automating processes and enhancing prediction reliability.
-    🌌 Published in Nature Astronomy for my work on mathematical models in astrophysics during my master's thesis.
-    📈 Designed BigQuery SQL queries for dashboards related to donations and candidate data, optimizing analytics for campaign decision-making.
-    🎨 Advocated for design thinking in data product brainstorming to support campaign analytics, fundraising, organizing, and voter protection.
-    🛠️ A power user of Notion, leveraging it daily for productivity and organization since its early days.
+📊 Built a global product demand forecasting pipeline from scratch using Python and SQL, delivering **10K+** time series forecasts monthly to financial teams across 5 continents, providing critical insights for budgeting, resource allocation, and market strategy.
+🌌 Published in **Nature Astronomy** for my work examining the statistical challenges of determining the lifelessness of Martian environments during my Astrophysics Master's thesis.
+📈 Released scores generated from advanced machine learning models to over **100K+** monthly users for every registered US voter (**160+ million** people) by refining SQL models in DBT, improving outreach efficiency and resource allocation during a critical election cycle.
 
-🛠️ Skills & Tools
+# 🛠️ Skills & Tools
 
 Languages: Python, SQL
 Libraries & Frameworks: pandas, NumPy, Matplotlib, Seaborn, scikit-learn
-Data Platforms: BigQuery, Tableau, Notion
-Other Skills: Time series forecasting, data pipeline optimization, design thinking
+Data Platforms: BigQuery, 
+Skills: Time series forecasting, data pipeline optimization, design thinking
 
-🌱 What I'm Passionate About
+# 🌱 What I'm Passionate About
 
     🌿 Using data science to advance sustainability initiatives
     📚 Mentoring and sharing knowledge with the data science community
@@ -38,6 +35,3 @@ Other Skills: Time series forecasting, data pipeline optimization, design thinki
 💡 Let's Collaborate
 
 I'm always looking to work on projects that align with my values of innovation, impact, and sustainability. If you have an idea, let's chat!
-
-- ⚡ Fun fact: ...
--->
