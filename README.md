@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Olivia Jackson
 
-🚀 Data Scientist | TBD | 
-🌍 Based in San Francisco, originally from the UK.
+🚀 Data Scientist & Engineer | 🌍 Based in San Francisco, originally from the UK.
 
 ## 👩🏻‍💻 About Me
 
@@ -9,28 +8,25 @@ I'm a data scientist with a diverse background in physics, machine learning and 
 
 ## 🌟 Highlights
 
-📊 Built a global product demand forecasting pipeline from scratch using Python and SQL for Kenvue, delivering **10K+** time series forecasts monthly to financial teams across 5 continents, providing critical insights for budgeting, resource allocation, and market strategy. \
+📊 Built a global product demand **forecasting pipeline** from scratch using **Python** and **SQL** for Kenvue, delivering **10K+** time series forecasts monthly to financial teams across **5 continents**, providing critical insights for budgeting, resource allocation, and market strategy. \
 \
-🌌 Published in **Nature Astronomy** for my work examining the statistical challenges of determining the lifelessness of Martian environments during my Astrophysics Master's thesis. \
+🌌 Published in [**Nature Astronomy**](https://www.nature.com/articles/s41550-024-02443-0) for my work examining the statistical challenges of determining the lifelessness of Martian environments during my **Astrophysics Master's** thesis. \
 \
-📈 Released scores generated from advanced machine learning models at the Democratic National Committee to over **100K+** monthly users for every registered US voter (**160+ million** people) by refining SQL models in DBT, improving outreach efficiency and resource allocation during a critical election cycle.
+📈 Released scores generated from **advanced machine learning models** at the Democratic National Committee to over **100K+** monthly users for every registered US voter (**160+ million** people) by refining **SQL** models in **DBT**, improving outreach efficiency and resource allocation during a **critical election cycle**.
 
 ## 🛠️ Skills & Tools
 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="drawing" width="50"/> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="drawing" width="50"/> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" alt="drawing" width="50"/> <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="drawing" width="50"/> 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="drawing" width="50"/> 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="drawing" width="50"/> 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="drawing" width="50"/> 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="drawing" width="50"/> 
+| Languages | Machine Learning | Analysis | Pipelines | Dashboards | Cloud | Warehouses |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="drawing" height="50"/>  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="drawing" height="50"/>  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" alt="drawing" height="50"/> | <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="drawing" height="40"/> <img src="https://keras.io/img/logo.png" alt="drawing" height="30"/> <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="drawing" height="50"/> <img src="https://summerofcode.withgoogle.com/media/org/sktime/x2i3dxljtj04sqw0-360.png" alt="drawing" height="50"/> | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="drawing" height="50"/> <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="drawing" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="drawing" height="40"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyErbVMBxtT0qUVDUT4J6s2JYYIqn60uyFTw&s" alt="drawing" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="drawing" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s" alt="drawing" height="40"/> | <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="drawing" height="50"/> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="drawing" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="drawing" height="40"/> | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="drawing" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="drawing" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Amazon-Redshift-Logo.svg/1862px-Amazon-Redshift-Logo.svg.png" alt="drawing" height="40"/> <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494" alt="drawing" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="drawing" height="40"/> |
 
+## 💡 Let's Collaborate
+
+🌐 [LinkedIn](https://www.linkedin.com/in/olivia-rose-jackson/) \
+📧 Email Me - oliviarosejackson@outlook.com \
+💻 Check out my projects below!
+
+<!---
 ## 🧠 What I'm Passionate About
+-->
 
-## 📫 How to Reach Me
-
-    🌐 LinkedIn
-    📧 Email Me
-    💻 Check out my projects below!
-
-💡 Let's Collaborate
-
-I'm always looking to work on projects that align with my values of innovation, impact, and sustainability. If you have an idea, let's chat!
