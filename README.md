@@ -4,7 +4,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I'm a data scientist with a diverse background in physics, machine learning and consultancy. I'm passionate about creating impactful, data-driven solutions that have a positive impact on people and businesses. 
+I'm a data scientist with a diverse background in physics, machine learning and consultancy. I'm passionate about creating efficient, data-driven solutions that have a positive impact on people and businesses. 
 
 ## 💡 Let's Collaborate
 
