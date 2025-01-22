@@ -16,7 +16,7 @@ I'm a data scientist with a diverse background in physics, machine learning and 
 
 📊 Built a global product demand **forecasting pipeline** from scratch using **Python** and **SQL** for Kenvue, delivering **10K+** time series forecasts monthly to financial teams across **5 continents**, providing critical insights for budgeting, resource allocation, and market strategy. \
 \
-🌌 Published in [**Nature Astronomy**](https://www.nature.com/articles/s41535-024-02443-0) for my work examining the statistical challenges of determining the lifelessness of Martian environments during my **Astrophysics Master's** thesis. \
+🌌 Published in [**Nature Astronomy**](https://www.nature.com/articles/s41550-024-02443-0) for my work examining the statistical challenges of determining the lifelessness of Martian environments during my **Astrophysics Master's** thesis. \
 \
 📈 Released scores generated from **advanced machine learning models** at the Democratic National Committee to over **100K+** monthly users for every registered US voter (**160+ million** people) by refining **SQL** models in **DBT**, improving outreach efficiency and resource allocation during a **critical election cycle**.
 
