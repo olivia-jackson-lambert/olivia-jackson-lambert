@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Olivia Jackson
 
-🚀 Data Scientist & Engineer | 🌍 Based in San Francisco, originally from the UK.
+🌍 Based in San Francisco, originally from the UK.
 
 ## 👩🏻‍💻 About Me
 
