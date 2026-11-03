@@ -19,11 +19,6 @@ Predicting muon track momentum resolution; R² of 0.854 against 0.698 for linear
 **[MNIST Variational Autoencoder](https://github.com/olivia-jackson-lambert/digit-variational-autoencoder)**<br>
 Digit clusters form in a two-dimensional latent space without the model seeing a label.
 
-## Writing
-
-**[MLOps: The Bridge Between Research and Production](https://oliviajacksonlambert.com/writing/posts/mlops-future-data-science)**<br>
-Why operational discipline now decides which organisations benefit from AI.
-
 ## Toolkit
 
 Python · SQL · dbt · Spark · PyTorch · TensorFlow · scikit-learn · BigQuery · Snowflake · AWS · GCP
