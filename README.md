@@ -4,6 +4,9 @@ Data Team Lead at Hockeystick, a political tech start-up. Previously at the Demo
 
 ## Selected Work
 
+**[Forecasting the 2026 Midterms](https://oliviajacksonlambert.com/midterms-2026/)**<br>
+Every Senate, House and governor race, forecast from public data with county-level turnout, published in advance and scored against the results. [Code](https://github.com/olivia-jackson-lambert/midterms-forecast-2026) · [Method](https://oliviajacksonlambert.com/work/turnout-first-2026/) · [Scorecard](https://oliviajacksonlambert.com/work/scorecard-2026/)
+
 **[How Many Samples Prove Mars Is Lifeless?](https://www.nature.com/articles/s41550-024-02443-0)**<br>
 Nature Astronomy, 2024. Why demonstrating that a Martian environment is lifeless takes hundreds of samples.
 
